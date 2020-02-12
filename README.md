@@ -4,6 +4,8 @@ Measure sound system frequency response.
 
 To test the app, download and unzip the .zip.
 
+Minimum OS version is 10.10 Yosemite
+
 ![system-eye screenshot](https://github.com/olegnaumenko/system-eye-osx-beta/blob/master/syseye-screenshot.png)
 
 
