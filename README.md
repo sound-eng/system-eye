@@ -1,7 +1,5 @@
 # system-eye-osx-beta
 
-Measure sound system frequency response.
-
 To test the app, download and unzip the .zip:
 
 [Click here to download system-eye app](https://github.com/olegnaumenko/system-eye-osx-beta/blob/master/system-eye-1-0-notarized-beta.zip)
