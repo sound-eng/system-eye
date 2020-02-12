@@ -19,3 +19,10 @@ Turn use AutioDelay button to automatically find the delay between mic and refer
 
 System-eye is equipped with pink noise generator that can be used af reference signal.
 
+Known issues:
+
+- In preferences, channle swapping controls don't work
+- In preferences, noise generator volume doesn't work
+- Generator sometimes won't start. requires re - selecting the output audio card
+- Flicker whe resizing/maximizing the window
+- wrong sizing and line widths when moving between screens with different content scale
