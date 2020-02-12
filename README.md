@@ -1,6 +1,8 @@
 # system-eye-osx-beta
 
-Measure sound system frequency response. 
+Measure sound system frequency response.
+
+To test the app, download and unzip the .zip.
 
 ![Image of Yaktocat](https://github.com/olegnaumenko/system-eye-osx-beta/blob/master/syseye-showcase-monitor.jpg)
 
