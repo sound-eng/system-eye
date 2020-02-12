@@ -2,6 +2,9 @@
 
 Measure sound system frequency response. 
 
+![Image of Yaktocat](https://github.com/olegnaumenko/system-eye-osx-beta/syseye-showcase-monitor.jpg)
+
+
 System-eye measures the Transfer Function of the system under test by means of comparison of reference signal and signal produced by sending the reference through system under test.
 
 Audio Input connection:
