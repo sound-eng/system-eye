@@ -2,7 +2,7 @@
 
 To test the app, download and unzip the .zip:
 
-[Click here to download system-eye app](https://github.com/olegnaumenko/system-eye-osx-beta/blob/master/system-eye-1-0-notarized-beta.zip)
+[https://github.com/olegnaumenko/system-eye-osx-beta/blob/master/system-eye-1-0-notarized-beta.zip](https://github.com/olegnaumenko/system-eye-osx-beta/blob/master/system-eye-1-0-notarized-beta.zip)
 
 Minimum OS version is 10.10 Yosemite. App requires external audio interface with minimum 2 audio inputs to make any sense.
 
