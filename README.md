@@ -2,12 +2,16 @@
 
 Measure sound system frequency response.
 
-To test the app, download and unzip the .zip.
+To test the app, download and unzip the .zip 
+
+[Download app here](https://github.com/olegnaumenko/system-eye-osx-beta/blob/master/system-eye-1-0-notarized-beta.zip)
 
 Minimum OS version is 10.10 Yosemite
 
 ![system-eye screenshot](https://github.com/olegnaumenko/system-eye-osx-beta/blob/master/syseye-screenshot.png)
 
+
+Tips:
 
 System-eye measures the Transfer Function of the system under test by means of comparison of reference signal and signal produced by sending the reference through system under test.
 
