@@ -26,3 +26,4 @@ Known issues:
 - Generator sometimes won't start. requires re - selecting the output audio card
 - Flicker whe resizing/maximizing the window
 - wrong sizing and line widths when moving between screens with different content scale
+- plot positions are not saved on app exit
