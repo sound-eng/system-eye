@@ -9,21 +9,21 @@ Minimum OS version is 10.10 Yosemite. App requires external audio interface with
 ![system-eye screenshot](https://github.com/olegnaumenko/system-eye-osx-beta/blob/master/syseye-screenshot.png)
 
 
-Tips:
+##Tips:
 
 System-eye measures the Transfer Function of the system under test by means of comparison of reference signal and signal produced by sending the reference through system under test.
 
-Audio Input connection:
+###Audio Input connection:
 
 Use external auido interface, input 1 - measurement mic, input 2 - reference signal. 
 Select correct audio interface in Preferences;
 Send the same reference signal to input 2 and to measured system (use some kind of split).
 
-Use AutioDelay button to turn on automatical detection of the delay between mic and reference. without proper delay the measurement will be incorrect.
+Use AutioDelay button to turn on automatical detection of the delay between mic and reference. Without proper delay the measurement will be incorrect.
 
 System-eye is equipped with pink noise generator that can be used af reference signal.
 
-Known issues:
+###Known issues:
 
 - In preferences, channle swapping controls don't work
 - In preferences, noise generator volume doesn't work
@@ -31,3 +31,7 @@ Known issues:
 - Flicker whe resizing/maximizing the window
 - wrong sizing and line widths when moving between screens with different content scale
 - plot positions are not saved on app exit
+
+###Security concerns:
+
+This buid has been notarized by Apple.
