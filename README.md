@@ -37,4 +37,5 @@ System-eye is equipped with pink noise generator that can be used af reference s
 ### Security concerns:
 
 This buid has been notarized by Apple.
+
 This beta app will collect anonymous telemetry info nessesary for futufe improvements.
