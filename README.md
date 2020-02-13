@@ -19,7 +19,7 @@ Use external auido interface, input 1 - measurement mic, input 2 - reference sig
 Select correct audio interface in Preferences;
 Send the same reference signal to input 2 and to measured system (use some kind of split).
 
-# AutoDelay
+### AutoDelay
 
 Use AutioDelay button to turn on automatical detection of the delay between mic and reference. Without proper delay the measurement will be incorrect.
 
