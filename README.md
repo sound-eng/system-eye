@@ -30,12 +30,11 @@ System-eye is equipped with pink noise generator that can be used af reference s
 - In preferences, channle swapping controls don't work
 - In preferences, noise generator volume doesn't work
 - Generator sometimes won't start. requires re - selecting the output audio card
-- Flicker whe resizing/maximizing the window
-- wrong sizing and line widths when moving between screens with different content scale
-- plot positions are not saved on app exit
+- Flicker when resizing/maximizing the window
+- Wrong sizing and line thickness when moving between screens with different content scale
+- Plot positions are not saved on app exit
 
 ### Security concerns:
 
 This buid has been notarized by Apple.
-
 This beta app will collect anonymous telemetry info nessesary for futufe improvements.
