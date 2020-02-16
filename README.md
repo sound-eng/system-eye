@@ -6,7 +6,7 @@ To test the app, download and unzip the .zip:
 
 Minimum OS version is 10.10 Yosemite. App requires external audio interface with minimum 2 audio inputs to make any sense.
 
-![system-eye screenshot](https://github.com/olegnaumenko/system-eye-osx-beta/blob/master/syseye-screenshot.png)
+![system-eye screenshot](https://github.com/olegnaumenko/system-eye-osx-beta/blob/master/syseye-screenshot-small.png)
 
 
 ## Tips
