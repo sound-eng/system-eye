@@ -13,6 +13,10 @@ Minimum OS version is 10.10 Yosemite. App requires external audio interface with
 
 System-eye measures the Transfer Function of the system under test by means of comparison: it cpmpares reference signal and signal produced by sending the reference through system under test, in frequency domain.
 
+It was designed to be very simple and lightweight, supplying the core needs if experienced system engineer without overkill of well - known alternatives. 
+
+It only supports one measurement channel at a time, and so far cannot do such advanced stuff as Live average or Delta Delay. It doesn't support SPL/calibration whatsoever.
+
 ### Audio Input connection
 
 Use external auido interface, input 1 - measurement mic, input 2 - reference signal. 
