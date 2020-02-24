@@ -11,7 +11,7 @@ Minimum OS version is 10.10 Yosemite. App requires external audio interface with
 
 ## Tips
 
-System-eye measures the Transfer Function of the system under test by means of comparison: it cpmpares reference signal and signal produced by sending the reference through system under test, in frequency domain.
+System-eye is a dual - channel fft analyzer. It measures the Transfer Function of the system under test by means of comparison: it cpmpares reference signal and signal produced by sending the reference through system under test, in frequency domain.
 
 It was designed to be very simple and lightweight, supplying the core needs if experienced system engineer without overkill of well - known alternatives. 
 
