@@ -2,7 +2,7 @@
 
 To test the app, download and unzip the .zip:
 
-[>>> system-eye download page <<<](https://install.appcenter.ms/users/olegnowmenco-gmail.com/apps/system-eye/distribution_groups/external)
+[>>> system-eye download page <<<](https://install.appcenter.ms/users/olegnaumenko/apps/system-eye/distribution_groups/external)
 
 Minimum OS version is 10.10 Yosemite. App requires external audio interface with minimum 2 audio inputs to make any sense.
 
