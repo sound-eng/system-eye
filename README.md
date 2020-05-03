@@ -14,7 +14,7 @@ System-eye is a dual - channel fft analyzer. It measures the Transfer Function o
 
 It was designed to be very simple and lightweight, supplying the core needs of experienced system engineer, without an overkill of well - known alternatives. 
 
-It only supports one measurement channel pair at a time, and so far cannot do such advanced stuff as Live average or Delta Delay. It doesn't support SPL/calibration whatsoever.
+It only supports one measurement channel pair at a time, and so far cannot do such advanced stuff as Live average. It doesn't support SPL/calibration whatsoever.
 
 ### Audio Input connection
 
@@ -25,9 +25,13 @@ Use level indicator in the left bottom corner to make sure you get two distinct 
 
 ### AutoDelay
 
-Use AutioDelay button to turn on automatical delay detection between mic and reference. Without proper delay detection the measurement will be incorrect.
+Use AutioDelay button to turn on automatical delay detection between mic and reference. Without proper delay detection the measurement will be incorrect. Once you capture a trace of your measurement, Delta Delay reading becomes visible.
 
 System-eye is equipped with pink noise generator that can be used as a reference signal.
+
+### Captured traces
+
+You can capture traces of Your measurement for future reference. Traces are stored in Trace Manager. You can open Trace manager using cmd+T keystroke, or using menu View -> Trace Manager. You can hide/show traces and delete them.
 
 ### Known issues:
 
