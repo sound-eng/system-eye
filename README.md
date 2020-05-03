@@ -13,7 +13,7 @@ Minimum OS version is 10.10 Yosemite, but recommended minimum is 10.11 El Capita
 
 System-eye is a dual - channel fft analyzer. It measures the Transfer Function of the system under test by means of comparison: it compares reference signal and signal produced by sending the reference through system under test, in frequency domain.
 
-It was designed to be very simple and lightweight, supplying the core needs if experienced system engineer without overkill of well - known alternatives. 
+It was designed to be very simple and lightweight, supplying the core needs of experienced system engineer, without an overkill of well - known alternatives. 
 
 It only supports one measurement channel pair at a time, and so far cannot do such advanced stuff as Live average or Delta Delay. It doesn't support SPL/calibration whatsoever.
 
