@@ -1,4 +1,4 @@
-# System-eye is a dual - channel fft analyzer. 
+# System-eye Dual - Channel FFT Analyzer. 
 
 To test the app, download and unzip the .zip:
 
