@@ -1,13 +1,12 @@
-# system-eye-osx-beta
+# System-eye is a dual - channel fft analyzer. 
 
 To test the app, download and unzip the .zip:
 
 [>>> system-eye download page <<<](https://install.appcenter.ms/users/olegnaumenko/apps/system-eye/distribution_groups/external)
 
-Minimum OS version is 10.10 Yosemite, but recommended minimum is 10.11 El Capitan. App requires external audio interface with minimum 2 audio inputs to make any sense.
+This app requires audio interface with minimum 2 separately connectable audio inputs to operate properly.
 
 ![system-eye screenshot](https://github.com/olegnaumenko/system-eye-osx-beta/blob/master/syseye-screenshot-small.png)
-
 
 ## Tips
 
@@ -22,6 +21,7 @@ It only supports one measurement channel pair at a time, and so far cannot do su
 Use external auido interface, input 1 - measurement mic, input 2 - reference signal. 
 Select correct audio interface in Preferences;
 Send the same reference signal to input 2 and to measured system (use some kind of split).
+Use level indicator in the left bottom corner to make sure you get two distinct signals on reference and measurement channels.
 
 ### AutoDelay
 
@@ -40,3 +40,7 @@ System-eye is equipped with pink noise generator that can be used as a reference
 This buid has been notarized by Apple.
 
 This beta app will collect anonymous telemetry info nessesary for futufe improvements.
+
+### System requirements:
+
+Minimum OS version is 10.10 Yosemite, but recommended minimum is 10.11 El Capitan. Compatible with macOS external audio interface is preferred.
