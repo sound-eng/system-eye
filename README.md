@@ -1,6 +1,6 @@
-# System-eye Dual - Channel FFT Analyzer (beta). 
+# System-eye 
 
-To test the app, download and unzip the .zip:
+Dual - Channel FFT Analyzer for macOS (beta). To test the app, download and unzip the .zip:
 
 [>>> system-eye download page <<<](https://install.appcenter.ms/users/olegnaumenko/apps/system-eye/distribution_groups/external)
 
