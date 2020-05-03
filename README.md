@@ -1,4 +1,4 @@
-# System-eye Dual - Channel FFT Analyzer. 
+# System-eye Dual - Channel FFT Analyzer (beta). 
 
 To test the app, download and unzip the .zip:
 
