@@ -25,7 +25,7 @@ Send the same reference signal to input 2 and to measured system (use some kind 
 
 ### AutoDelay
 
-Use AutioDelay button to turn on automatical detection of the delay between mic and reference. Without proper delay the measurement will be incorrect.
+Use AutioDelay button to turn on automatical delay detection between mic and reference. Without proper delay detection the measurement will be incorrect.
 
 System-eye is equipped with pink noise generator that can be used as a reference signal.
 
