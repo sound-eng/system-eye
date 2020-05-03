@@ -15,7 +15,7 @@ System-eye is a dual - channel fft analyzer. It measures the Transfer Function o
 
 It was designed to be very simple and lightweight, supplying the core needs if experienced system engineer without overkill of well - known alternatives. 
 
-It only supports one measurement channel at a time, and so far cannot do such advanced stuff as Live average or Delta Delay. It doesn't support SPL/calibration whatsoever.
+It only supports one measurement channel pair at a time, and so far cannot do such advanced stuff as Live average or Delta Delay. It doesn't support SPL/calibration whatsoever.
 
 ### Audio Input connection
 
