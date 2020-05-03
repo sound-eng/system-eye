@@ -31,7 +31,7 @@ System-eye is equipped with pink noise generator that can be used as a reference
 
 ### Captured traces
 
-You can capture traces of Your measurement for future reference. Traces are stored in Trace Manager. You can open Trace manager using cmd+T keystroke, or using menu View -> Trace Manager. You can hide/show traces and delete them.
+You can capture traces of Your measurement for future reference. Traces are stored in Trace Manager. You can open Trace manager using cmd+T keystroke, or using menu View -> Trace Manager. You can hide/show traces, change name and color and delete them.
 
 ### Known issues:
 
