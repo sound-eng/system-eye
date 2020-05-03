@@ -47,4 +47,4 @@ This beta app will collect anonymous telemetry info nessesary for futufe improve
 
 ### System requirements:
 
-Minimum OS version is 10.10 Yosemite, but recommended minimum is 10.11 El Capitan. Compatible with macOS external audio interface is preferred.
+Minimum OS version is 10.10 Yosemite, but recommended minimum is 10.11 El Capitan. External compatible with macOS audio interface is preferred.
