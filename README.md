@@ -4,13 +4,13 @@ Dual - Channel FFT Analyzer for macOS (beta). To test the app, download and unzi
 
 [>>> system-eye download page <<<](https://install.appcenter.ms/users/olegnaumenko/apps/system-eye/distribution_groups/external)
 
-This app requires audio interface with minimum 2 separately connectable audio inputs to operate properly.
+This app requires audio interface with minimum 2 separately connectable audio inputs and 2 outputs to operate properly.
 
 ![system-eye screenshot](https://github.com/olegnaumenko/system-eye-osx-beta/blob/master/syseye-screenshot-small.png)
 
 ## Tips
 
-System-eye is a dual - channel fft analyzer. It measures the Transfer Function of the system under test by means of comparison: it compares reference signal and signal produced by sending the reference through system under test, in frequency domain.
+System-eye is a dual - channel fft analyzer. It measures the Transfer Function of the system under test by means of comparison: it compares reference signal and signal produced by sending the reference through system under test, so called, measurement signal, in frequency domain.
 
 It was designed to be very simple and lightweight, supplying the core needs of experienced system engineer, without an overkill of well - known alternatives. 
 
