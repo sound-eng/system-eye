@@ -33,12 +33,6 @@ System-eye is equipped with pink noise generator that can be used as a reference
 
 You can capture traces of Your measurement for future reference. Traces are stored in Trace Manager. You can open Trace manager using cmd+T keystroke, or using menu View -> Trace Manager. You can hide/show traces, change name and color and delete them.
 
-### Known issues:
-
-- Flicker when resizing/maximizing the window
-- Wrong sizing and line thickness when moving between screens with different content scale
-- Plot positions are not saved on app exit
-
 ### Security concerns:
 
 This buid has been notarized by Apple.
@@ -47,4 +41,4 @@ This beta app will collect anonymous telemetry info nessesary for futufe improve
 
 ### System requirements:
 
-Minimum OS version is 10.10 Yosemite, but recommended minimum is 10.11 El Capitan. External compatible with macOS audio interface is preferred.
+Minimum OS version is 10.10 Yosemite, but recommended minimum is 10.11 El Capitan. External compatible audio interface is preferred.
