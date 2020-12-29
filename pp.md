@@ -16,13 +16,13 @@ We collect several different types of information for various purposes to provid
 
 ### Personal Data
 
-We don't collect any personal data in System-Eye
+We don't collect any personal data that can attribute to You personnaly, but for sake of this document, all de-personified data we collect in the App are called "Personal Data". These collected data is used solely for Analytics and Diagnostics.
 
 ### Usage Data
 
-We may collect de-personified telemetry information when you use the App ("Usage Data").
+We may collect statistical telemetry/analytical information when you use the App ("Usage Data").
 
-This Usage Data may include information such as version of the App, type of audio interface You use, values of basic App operation parameters, like, plot resolution, plot averaging, sample rate and other diagnostic data.
+This Usage Data may include information such as version of the App, type of audio interface used, values of basic App operation parameters, like, plot resolution, plot averaging, sample rate and other diagnostic data.
 
 Additionally, this Usage Data may include information such as version of Your OS, the type of device you use and crash diagnostics information.
 
@@ -34,13 +34,13 @@ We don't use cookies or similar tracking technologies to track the activity in o
 
 System-Eye uses the collected data for these purposes:
 
-To provide customer care and support
 To provide analysis or valuable information so that we can improve the App
 To monitor the App malfunction and crashes and act quickly
 To detect, prevent and address technical issues
-Transfer Of Data
 
-Your Personal Data about App usage may be transferred to â€” and maintained on â€” computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+## Transfer Of Data
+
+Your Personal Data about App usage may be transferred to and maintained on computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
