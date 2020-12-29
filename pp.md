@@ -20,7 +20,7 @@ We don't collect any personal data in System-Eye
 
 ### Usage Data
 
-We may collect unpersonified telemetry information when you use the App ("Usage Data").
+We may collect de-personified telemetry information when you use the App ("Usage Data").
 
 This Usage Data may include information such as version of the App, type of audio interface You use, values of basic App operation parameters, like, plot resolution, plot averaging, sample rate and other diagnostic data.
 
