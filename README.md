@@ -1,8 +1,8 @@
 # System-eye 
 
-Dual - Channel FFT Analyzer for macOS (beta). To test the app, download and unzip the .zip:
+Dual - Channel FFT Analyzer for macOS.
 
-[>>> system-eye download page <<<](https://install.appcenter.ms/users/olegnaumenko/apps/system-eye/distribution_groups/external)
+https://apps.apple.com/ua/app/system-eye/id1250308889
 
 This app requires audio interface with minimum 2 separately connectable audio inputs and 2 outputs to operate properly.
 
