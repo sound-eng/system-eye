@@ -35,10 +35,10 @@ You can capture traces of Your measurement for future reference. Traces are stor
 
 ### Security concerns:
 
-This buid has been notarized by Apple.
+This buid has been notarised or approved by Apple.
 
-This beta app will collect anonymous telemetry info nessesary for futufe improvements.
+This app will collect minimal anonymous telemetry info nessesary for futufe improvements.
 
 ### System requirements:
 
-Minimum OS version is 10.10 Yosemite, but recommended minimum is 10.11 El Capitan. External compatible audio interface is preferred.
+Minimum OS version is 10.10 Yosemite, but recommended minimum is 10.11 El Capitan. External compatible audio interface is a must.
