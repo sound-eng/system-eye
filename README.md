@@ -35,7 +35,7 @@ You can capture traces of Your measurement for future reference. Traces are stor
 
 ### Security concerns:
 
-This buid has been notarised or approved by Apple.
+This app has been notarised or approved by Apple.
 
 This app will collect minimal anonymous telemetry info nessesary for futufe improvements.
 
