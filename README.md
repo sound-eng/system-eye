@@ -48,11 +48,11 @@ G - pink noise generator on/off
 
 For more shortcuts - look at the app menu, it's straightforward.
 
-### Security concerns:
+### Security:
 
-This app has been notarised or approved by Apple.
+This app has been notarised and approved by Apple.
 
-This app will collect minimal anonymous telemetry info nessesary for futufe improvements.
+This app will collect minimal anonymous telemetry info nessesary for futufe improvements: audio interface channel count, typical averaging and smoothing used, scales overlap mode used.
 
 ### System requirements:
 
@@ -60,4 +60,4 @@ Minimum OS version is 10.10 Yosemite, but recommended minimum is 10.11 El Capita
 
 ### Useful links:
 
-Support page in Facebook: https://www.facebook.com/system.eyeser/
+Support page on Facebook: https://www.facebook.com/system.eyeser/
