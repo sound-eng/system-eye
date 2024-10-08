@@ -33,6 +33,16 @@ System-eye is equipped with pink noise generator that can be used as a reference
 
 You can capture traces of Your measurement for future reference. Traces are stored in Trace Manager. You can open Trace manager using cmd+T keystroke, or using menu View -> Trace Manager. You can hide/show traces, change name and color and delete them.
 
+### Useful keyboard shortcuts
+T - open/close Trace Manager
+S - start/pause the analyzis
+P - show/hide phase plot
+C - show/hide coherence plot
+I - show/hide impulse response plot
+G - pink noise generator on/off
+
+For more shortcuts - look at the app menu, it's straightforward.
+
 ### Security concerns:
 
 This app has been notarised or approved by Apple.
@@ -42,3 +52,7 @@ This app will collect minimal anonymous telemetry info nessesary for futufe impr
 ### System requirements:
 
 Minimum OS version is 10.10 Yosemite, but recommended minimum is 10.11 El Capitan. External compatible audio interface is a must.
+
+### Useful links:
+
+Support page in Facebook: https://www.facebook.com/system.eyeser/
