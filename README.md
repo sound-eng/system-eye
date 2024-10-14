@@ -56,7 +56,7 @@ This app will collect minimal anonymous telemetry info nessesary for futufe impr
 
 ### System requirements:
 
-Minimum OS version is 10.10 Yosemite, but recommended minimum is 10.11 El Capitan. External compatible audio interface is a must.
+Apple mac with minimum OS version 10.15 (Catalina). External compatible audio interface is a must.
 
 ### Useful links:
 
