@@ -1,5 +1,7 @@
 # System-eye 
 
+![UA-Ukraine-Flag-icon](https://github.com/user-attachments/assets/75fee61c-f0b5-4c11-afe1-5241f8f3f90e)
+
 Dual - Channel FFT Analyzer for macOS.
 
 https://apps.apple.com/ua/app/system-eye/id1250308889
