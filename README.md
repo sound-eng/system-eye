@@ -1,4 +1,4 @@
-# System-eye 
+# System Eye
 
 ![UA-Ukraine-Flag-icon](https://github.com/user-attachments/assets/75fee61c-f0b5-4c11-afe1-5241f8f3f90e)
 
@@ -52,14 +52,15 @@ For more shortcuts - look at the app menu, it's straightforward.
 
 ### Security:
 
-This app has been notarised and approved by Apple.
+This app has been notarized and approved by Apple.
 
-This app will collect minimal anonymous telemetry info nessesary for futufe improvements: audio interface channel count, typical averaging and smoothing used, scales overlap mode used.
+This app will collect minimal anonymous telemetry info necessary for future improvements: audio interface channel count, typical averaging and smoothing used, scales overlap mode used.
 
 ### System requirements:
 
-Apple mac with minimum OS version 10.15 (Catalina). External compatible audio interface is a must.
+Apple mac with minimum macOS version 11.5. External compatible audio interface is a must.
 
 ### Useful links:
 
-Support page on Facebook: https://www.facebook.com/system.eyeser/
+Web: https://www.facebook.com/system.eyeser
+Support & Feedback: https://systemeye.userjot.com
