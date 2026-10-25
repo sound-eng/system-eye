@@ -22,7 +22,7 @@ We don't collect any personal data that can attribute to You personnaly, but for
 
 We may collect statistical telemetry/analytical information when you use the App ("Usage Data").
 
-This Usage Data may include information such as version of the App, type of audio interface used, values of basic App operation parameters, like, plot resolution, plot averaging, sample rate and other diagnostic data.
+This Usage Data may include information such as version of the App, values of basic App operation parameters, like, plot resolution, plot averaging, sample rate and plot line thickness.
 
 Additionally, this Usage Data may include information such as version of Your OS, the type of device you use and crash diagnostics information.
 
@@ -72,9 +72,9 @@ These third parties have access to your Personal Data only to perform these task
 
 We may use third-party Service Providers to monitor and analyze the use of our App:
 
-- AppCenter
+- Firebase
 
-AppCenter is an analytics service provided by Microsoft Inc.
+Firebase is an analytics service provided by Google (Alphabet).
 
 ## Links To Other Sites
 
